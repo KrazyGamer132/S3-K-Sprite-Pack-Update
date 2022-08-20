@@ -1,0 +1,61 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Configuration",
+      "Elements": [
+        {
+          "Name": "IncludeDir0",
+          "Description": [
+            "Select a sprite style that you want."
+          ],
+          "DisplayName": "Style Select",
+          "Type": "GameEnum",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": ".\\Main\\"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "GameEnum": [
+      {
+        "DisplayName": "Original S1 Style",
+        "Value": ".\\S1 Original Sprites\\",
+        "Description": [
+          "Play S3&K With Original S1 2013 Sprites."
+        ]
+      },
+      {
+        "DisplayName": "S1 Style",
+        "Value": ".\\S1 Sprites\\",
+        "Description": [
+          "Play S3&K With S1 Sprites."
+        ]
+      },
+      {
+        "DisplayName": "S1F Style",
+        "Value": ".\\S1F Sprites\\",
+        "Description": [
+          "Play S3&K With S1F Sprites."
+        ]
+      },
+      {
+        "DisplayName": "SCD Style",
+        "Value": ".\\SCD Sprites\\",
+        "Description": [
+          "Play S3&K With SCD Sprites."
+        ]
+      },
+     {
+        "DisplayName": "S2 Style",
+        "Value": ".\\S2 Sprites\\",
+        "Description": [
+          "Play S3&K With S2 Sprites."
+        ]
+      },
+    ]
+  },
+  "IniFile": "mod.ini"
+}
