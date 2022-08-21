@@ -1,2 +1,1 @@
-delete Test/test.txt
 add mod.ini
