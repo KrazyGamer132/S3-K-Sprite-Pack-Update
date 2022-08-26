@@ -1,1 +1,7 @@
+add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/Sonic.bin
+add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/SonicPart2.gif
+add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/Tails.bin
+add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/Tails.gif
+add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Cutscenes/Tornado.bin
+add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Cutscenes/Tornado.gif
 add Mod.ini
