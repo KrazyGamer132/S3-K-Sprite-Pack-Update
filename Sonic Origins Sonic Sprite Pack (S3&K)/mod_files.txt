@@ -8,4 +8,4 @@ delete S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Cutscenes/Tornado.bin
 add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Cutscenes/Tornado.bin
 delete S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Cutscenes/Tornado.gif
 add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Cutscenes/Tornado.gif
-add Mod.ini
+add mod.ini
