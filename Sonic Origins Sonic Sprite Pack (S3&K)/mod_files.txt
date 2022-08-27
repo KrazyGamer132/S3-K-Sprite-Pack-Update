@@ -2,10 +2,10 @@ delete S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/Sonic.bin
 add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/Sonic.bin
 delete S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/SonicPart2.gif
 add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/SonicPart2.gif
-add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/Tails.bin
-add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/Tails.gif
-add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/TailSprite.bin
-add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/Tails-Tail.gif
+delete S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/Tails.bin
+delete S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/Tails.gif
+delete S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/TailSprite.bin
+delete S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Players/Tails-Tail.gif
 delete S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Cutscenes/Tornado.bin
 add S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Cutscenes/Tornado.bin
 delete S1 Original Sprites/Sonic3ku/Data/Sprites/3K_Cutscenes/Tornado.gif
