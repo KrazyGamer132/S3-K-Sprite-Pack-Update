@@ -1,6 +1,6 @@
 # S3&K Sprite Pack For Origins | V1.1 Rev.2
 -What's Removed:
-S2 Tails (He will be an Addon instead)
+S2 Tails (He is now an Addon instead)
 
 # S3&K Sprite Pack For Origins | V1.1
 -Animation Tweaks:
