@@ -8,3 +8,6 @@ SEGA
 Me (of course). All Sprites are owned by SEGA.
 # How do I run the mod?
 Open Hedgemodmanager, click on the mod, click on the config icon to switch between Sonic's design, Enjoy.
+
+## The Sprite Pack will now be on Gamebanana. Why?
+I didn't want it here anymore.
